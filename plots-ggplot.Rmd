@@ -1,0 +1,8 @@
+---
+title: "creating ggplot2 graphs in R"
+author: "Rebecca"
+date: "7/12/2020"
+output: html_document
+---
+
+# Plots with gpplot2
